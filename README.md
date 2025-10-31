@@ -19,7 +19,7 @@ The program displays four interactive plot windows that update in real-time as y
 
 ### Prerequisites
 
-PySpline3 requires Python 3.6+ and the following packages:
+PySpline3 requires Python 3.6+ and the following packages so it is probably wise to make a new environment:
 
 ```bash
 pip install PyQt5 numpy PythonQwt
